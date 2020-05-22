@@ -1,0 +1,7 @@
+This is a new line
+This is the second line
+This is the 3rd line
+This is the 4th line
+Dear Sir
+This is a test for lists
+3rd element
